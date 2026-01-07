@@ -7,6 +7,11 @@ A simple React app that shows daily prayer timings based on the selected Morocca
 
 ---
 
+## 📸 Screenshot
+
+<img width="1204" height="595" alt="image" src="https://github.com/user-attachments/assets/36b9cd43-a675-4a41-998e-6693d1f24e18" />
+
+
 ## Features ✨
 
 - Choose city from Moroccan cities list  
