@@ -114,13 +114,28 @@ section .prayer {
   }
 
   section .prayer {
-    flex-direction: column;
+    flex-direction: grid;
     align-items: flex-start;
     font-size: 20px;
+    /* justify-content: space-evenly; */
+    padding: 5px 25px;
+
     /* padding: 10px 15px; */
   }
-}
+  .prayer {
+    /* flex-direction: column; stacked لو الشاشة صغيرة بزاف */
+    align-items: flex-start;
+    font-size: 18px;
+    font-size: 16px;
+    gap: 120px;
+    padding: 5px 12px;
+  }
 
+  .name_prayer,
+  .time_prayer {
+    margin: 2px 0;
+  }
+}
 @media (max-width: 480px) {
   section .top_sec h3,
   section .top_sec .date {
