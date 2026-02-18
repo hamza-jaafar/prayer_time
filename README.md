@@ -30,6 +30,8 @@ A simple React app that shows daily prayer timings based on the selected Morocca
 - CSS with container layout
 
 ---
+## API provider:  
+https://aladhan.com/prayer-times-api
 
 ## How It Works 🔁
 
@@ -38,9 +40,11 @@ A simple React app that shows daily prayer timings based on the selected Morocca
 - Format function converts 24h time to 12h display  
 - Prayer component displays name and time
 
-- Demo Link : https://prayetime.netlify.app/
-## API provider:  
-https://aladhan.com/prayer-times-api
+---
+
+## Demo Link :
+https://prayetime.netlify.app/
+
 
 ---
 
